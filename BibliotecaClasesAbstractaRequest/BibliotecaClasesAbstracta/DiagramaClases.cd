@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BibliotecaClasesAbstracta.clsAlumno">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>clsAlumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaClasesAbstracta.clsPersona">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAACAAAYCAAAAAAIgAAAAAAA=</HashCode>
+      <FileName>clsPersona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaClasesAbstracta.clsProfesorCatedra">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAARg=</HashCode>
+      <FileName>clsProfesorCatedra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaClasesAbstracta.clsProfesor">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAIAAAQAAAAAAAAEAAARg=</HashCode>
+      <FileName>clsProfesor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BibliotecaClasesAbstracta.clsEstudianteGraduado">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsEstudianteGraduado.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BibliotecaClasesAbstracta.IRequisitosGraduados">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IRequisitosGraduados.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\BibliotecaClasesAbstracta\BibliotecaClasesAbstracta\bin\Debug\BibliotecaClasesAbstracta.dll
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\BibliotecaClasesAbstracta\BibliotecaClasesAbstracta\bin\Debug\BibliotecaClasesAbstracta.pdb
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\BibliotecaClasesAbstracta\BibliotecaClasesAbstracta\obj\Debug\BibliotecaClasesAbstracta.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\BibliotecaClasesAbstracta\BibliotecaClasesAbstracta\obj\Debug\BibliotecaClasesAbstracta.dll
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\BibliotecaClasesAbstracta\BibliotecaClasesAbstracta\obj\Debug\BibliotecaClasesAbstracta.pdb

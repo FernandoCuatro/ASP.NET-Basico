@@ -1,0 +1,5 @@
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\bibliotecaClasesAlumno\bibliotecaClasesAlumno\bin\Debug\bibliotecaClasesAlumno.dll
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\bibliotecaClasesAlumno\bibliotecaClasesAlumno\bin\Debug\bibliotecaClasesAlumno.pdb
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\bibliotecaClasesAlumno\bibliotecaClasesAlumno\obj\Debug\bibliotecaClasesAlumno.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\bibliotecaClasesAlumno\bibliotecaClasesAlumno\obj\Debug\bibliotecaClasesAlumno.dll
+C:\xampp\htdocs\Web\aSeguir\ASP.NET-Basico\bibliotecaClasesAlumno\bibliotecaClasesAlumno\obj\Debug\bibliotecaClasesAlumno.pdb
